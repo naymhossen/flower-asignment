@@ -5,6 +5,28 @@
     padding: 0px;
 }
 
+/* NAVBER SECTION */
+
+nav{
+display: flex;
+align-items: center;
+justify-content: space-around;
+background-color: rgba(237, 183, 192, 0.36);
+}
+nav > ul {
+    display: flex;
+    align-items: center;
+}
+nav li {
+    list-style: none;
+    margin-right: 20px;
+    font-weight: 400;
+    
+}
+.nav-title{
+    color: red;
+}
+
 
   /* Banner-C0ntainer-section */
 
@@ -261,3 +283,4 @@ font-size: 18;
     text-align: center;
     margin-top: 0px;
 }
+
