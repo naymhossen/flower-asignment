@@ -115,3 +115,32 @@ text-decoration-line: underline;
     font-size: 12px;
     font-weight: 600;
 }
+
+/*   <!-- Hot Deal ! Sale Up To 25% Off --> */
+
+.discount-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 80vh;
+    background: rgba(229, 84, 115, 0.05);
+    border-radius: 5px;
+    margin-top: 100px;
+}
+.offer-discription{
+   text-align: center;
+   margin-left: 50px;
+}
+.offer-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+.offer-detail{
+    color: gray;
+    font-size: 18px;
+    font-weight: 400;
+}
+.offerd-item{
+   margin-right: 70px;
+}
