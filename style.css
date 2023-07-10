@@ -106,6 +106,7 @@ text-decoration-line: underline;
     border-radius: 8px;
     background: rgba(39, 39, 39, 0.05);
     margin-top: 100px;
+    margin-bottom: 100px;
     text-align: center;
 
 }
@@ -143,4 +144,31 @@ text-decoration-line: underline;
 }
 .offerd-item{
    margin-right: 70px;
+}
+  /* Instagram-container */
+.instagram{
+    text-align: center;
+    margin-top: 100px;
+}
+.social-name{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+.insta-details{
+    color: gray;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.instagram-img{
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.insta-pic{
+    width: 250px;
+    height: 300px;
 }
