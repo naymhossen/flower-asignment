@@ -283,4 +283,35 @@ font-size: 18;
     text-align: center;
     margin-top: 0px;
 }
+/* <!-- Shop Popular Occasions --> */
+
+.shop-populer{
+    margin-top: 100px;
+    color: black;
+    text-align: center;
+    align-items: center;
+    font-weight: 400;
+    font-size: 40px;
+}
+.populer-item-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+    border-radius: 5px;
+    padding: 30px 30px;
+}
+.item1{
+    width: 400px;
+    height: 550px;
+    /* box-shadow: 4px 8px 4px gray; */
+    
+}
+.item-title{
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(48, 40, 40);
+}
 
